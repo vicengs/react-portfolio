@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.cc3a281b.css",
+    "main.js": "/react-portfolio/static/js/main.f5fb4716.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/Videogames-Chat.jpg": "/react-portfolio/static/media/Videogames-Chat.fb8c1bab90a2abf95e2b.jpg",
+    "static/media/Run-Buddy.jpg": "/react-portfolio/static/media/Run-Buddy.c1bfb2fbb464116f78e3.jpg",
+    "static/media/Super-Hero-Wiki.jpg": "/react-portfolio/static/media/Super-Hero-Wiki.28d163f56ec094648192.jpg",
+    "static/media/Weather-Dashboard.jpg": "/react-portfolio/static/media/Weather-Dashboard.1d5257160de64e062241.jpg",
+    "static/media/Tech-Blog.jpg": "/react-portfolio/static/media/Tech-Blog.228ca2c79388faba84f4.jpg",
+    "static/media/Work-Day-Scheduler.jpg": "/react-portfolio/static/media/Work-Day-Scheduler.365bfeb6a8bf52a1eff1.jpg",
+    "static/media/Banner.jpg": "/react-portfolio/static/media/Banner.00ae896600703f27deda.jpg",
+    "static/media/Vicente.jpg": "/react-portfolio/static/media/Vicente.62901c67acc5e134ef4e.jpg",
+    "static/media/Vicente_Garcia.pdf": "/react-portfolio/static/media/Vicente_Garcia.9902af391c6ffeff2c87.pdf",
+    "static/media/Background.jpg": "/react-portfolio/static/media/Background.b5aa323c8eae691f223c.jpg",
+    "static/media/Project_Github.ico": "/react-portfolio/static/media/Project_Github.fbaffa17682461a5195e.ico",
+    "static/media/Twitter.ico": "/react-portfolio/static/media/Twitter.eb65475e4e8a8c97d960.ico",
+    "static/media/Linkedin.ico": "/react-portfolio/static/media/Linkedin.2515ca3cd022eae90d22.ico",
+    "static/media/Github.ico": "/react-portfolio/static/media/Github.c738dd1974ce142d0d0c.ico",
+    "index.html": "/react-portfolio/index.html",
+    "main.cc3a281b.css.map": "/react-portfolio/static/css/main.cc3a281b.css.map",
+    "main.f5fb4716.js.map": "/react-portfolio/static/js/main.f5fb4716.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc3a281b.css",
+    "static/js/main.f5fb4716.js"
+  ]
+}
