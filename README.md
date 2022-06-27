@@ -71,6 +71,6 @@ MIT License - A short and simple permissive license with conditions only requiri
 
 ## Screenshots
     
-![About](/assets/images/about.jpg)
+![About](/src/assets/images/about.jpg)
 
-![Contact](/assets/images/contact.jpg)
+![Contact](/src/assets/images/contact.jpg)
