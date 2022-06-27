@@ -59,7 +59,7 @@ Made by Vicente Garcia Sepulveda
 
 #### Deployed
 
-- https://morning-taiga-40575.herokuapp.com
+- https://vicengs.github.io/react-portfolio/
   
 #### E-mail
   
