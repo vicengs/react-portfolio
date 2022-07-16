@@ -10,22 +10,16 @@ import React, { useState } from 'react';
 function Project() {
   const [projects] = useState([
     {
+      href: "https://stark-tor-14116.herokuapp.com/"
+     ,src: "Video-Game-E-Commerce"
+     ,alt: "Video Games E-Commerce"
+     ,github: "https://github.com/vicengs/video-game-e-commerce"
+    },
+    {
       href: "https://immense-scrubland-37452.herokuapp.com/"
      ,src: "Tech-Blog"
      ,alt: "Tech Blog"
      ,github: "https://github.com/vicengs/Tech_Blog"
-    },
-    {
-      href: "https://secret-coast-34340.herokuapp.com/"
-     ,src: "Videogames-Chat"
-     ,alt: "Video Games Chatrooms Project"
-     ,github: "https://github.com/vicengs/Video-Game-Chats"
-    },
-    {
-      href: "https://vicengs.github.io/Run_Buddy/"
-     ,src: "Run-Buddy"
-     ,alt: "Run Buddy"
-     ,github: "https://github.com/vicengs/Run_Buddy"
     },
     {
       href: "https://vicengs.github.io/Super-Hero-Wiki/"
@@ -34,16 +28,22 @@ function Project() {
      ,github: "https://github.com/vicengs/Super-Hero-Wiki"
     },
     {
+      href: "https://vicengs.github.io/Run_Buddy/"
+     ,src: "Run-Buddy"
+     ,alt: "Run Buddy"
+     ,github: "https://github.com/vicengs/Run_Buddy"
+    },
+    {
+      href: "https://secret-coast-34340.herokuapp.com/"
+     ,src: "Videogames-Chat"
+     ,alt: "Video Games Chatrooms Project"
+     ,github: "https://github.com/vicengs/Video-Game-Chats"
+    },
+    {
       href: "https://vicengs.github.io/Weather_Dashboard/"
      ,src: "Weather-Dashboard"
      ,alt: "Weather Dashboard"
      ,github: "https://github.com/vicengs/Weather_Dashboard"
-    },
-    {
-      href: "https://vicengs.github.io/Work_Day_Scheduler/"
-     ,src: "Work-Day-Scheduler"
-     ,alt: "Work Day Scheduler"
-     ,github: "https://github.com/vicengs/Work_Day_Scheduler"
     }
   ]);
   return (
