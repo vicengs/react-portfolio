@@ -1,8 +1,11 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.cc3a281b.css",
-    "main.js": "/react-portfolio/static/js/main.f5fb4716.js",
+    "main.js": "/react-portfolio/static/js/main.25dd1f5b.js",
     "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/about.jpg": "/react-portfolio/static/media/about.69c75ee96f4d2599ee5f.jpg",
+    "static/media/Video-Game-E-Commerce.jpg": "/react-portfolio/static/media/Video-Game-E-Commerce.b714fac097a3690ad67a.jpg",
+    "static/media/contact.jpg": "/react-portfolio/static/media/contact.9494340da31ff9ed8777.jpg",
     "static/media/Videogames-Chat.jpg": "/react-portfolio/static/media/Videogames-Chat.fb8c1bab90a2abf95e2b.jpg",
     "static/media/Run-Buddy.jpg": "/react-portfolio/static/media/Run-Buddy.c1bfb2fbb464116f78e3.jpg",
     "static/media/Super-Hero-Wiki.jpg": "/react-portfolio/static/media/Super-Hero-Wiki.28d163f56ec094648192.jpg",
@@ -19,11 +22,11 @@
     "static/media/Github.ico": "/react-portfolio/static/media/Github.c738dd1974ce142d0d0c.ico",
     "index.html": "/react-portfolio/index.html",
     "main.cc3a281b.css.map": "/react-portfolio/static/css/main.cc3a281b.css.map",
-    "main.f5fb4716.js.map": "/react-portfolio/static/js/main.f5fb4716.js.map",
+    "main.25dd1f5b.js.map": "/react-portfolio/static/js/main.25dd1f5b.js.map",
     "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cc3a281b.css",
-    "static/js/main.f5fb4716.js"
+    "static/js/main.25dd1f5b.js"
   ]
 }
