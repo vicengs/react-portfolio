@@ -4,7 +4,7 @@
 
 ## Description
   
-A React website that shows my proferssional work.
+A React website that shows my professional work.
 
 ## Built with
 
